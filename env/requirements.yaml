@@ -10,6 +10,3 @@ dependencies:
 - name: go-demo-6
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.0.4
-- name: jx-maven-lib
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 1.0.0
