@@ -10,3 +10,6 @@ dependencies:
 - name: go-demo-6
   repository: http://jenkins-x-chartmuseum:8080
   version: 2.0.6
+- name: jx-static-go
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
