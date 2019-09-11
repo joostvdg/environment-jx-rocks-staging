@@ -10,3 +10,6 @@ dependencies:
 - name: jx-k8s-days-go-01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: jx-k8s-days-go-02
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
