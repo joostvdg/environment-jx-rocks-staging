@@ -7,9 +7,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: go-demo-6
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 4.0.9
 - name: jx-k8s-days-go-01
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
