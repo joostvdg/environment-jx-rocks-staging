@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: jx-k8s-days-go-01
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
+  version: 0.0.5
 - name: jx-k8s-days-go-02
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
